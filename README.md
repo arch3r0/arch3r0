@@ -76,6 +76,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/arch3r0/arch3r0/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
 
 ###
